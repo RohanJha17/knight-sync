@@ -93,7 +93,7 @@ A real-time multiplayer chess game with voice chat, built using Node.js, Express
 
 ## Live Demo
 
-[Live Link: ]()
+[Live Link: ](https://knight-sync-production.up.railway.app/)
 
 ---
 
