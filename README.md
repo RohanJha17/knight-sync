@@ -1,3 +1,13 @@
+---
+title: Knight Sync
+emoji: ♞
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # Knight Sync
 
 A real-time multiplayer chess game with voice chat, built using Node.js, Express, Socket.io, and chess.js. Play chess with friends or spectate games, all in your browser.
